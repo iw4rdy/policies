@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Acceptable Use Policy](README.md)
+* [Clear Desk Policy](clear-desk-policy.md)
